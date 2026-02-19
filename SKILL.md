@@ -4,7 +4,8 @@ description: A spiritual purification methodology derived from Al-Ghazali's teac
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4151
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - heart-polishing-practice
 - writing
